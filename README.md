@@ -5,4 +5,4 @@
  
  To run the index yourself you will need to download the .txt data files found in the 'Data' folder for both the dictionary and tests, and change file paths to your own mount. 
 
-An example csv output can be found in 'Data/output'
+An example .csv output developed from this code can be found in 'Data/output'
