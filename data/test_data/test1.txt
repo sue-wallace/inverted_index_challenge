@@ -1,0 +1,6 @@
+here is some test data!
+'the' should not appear in teh dictionary!
+There should not be any upper case or punctuation in the dictionary(*&
+Or symbols like this!"#$%&\'()*+,-
+hello./:;<=>?@[\\]^_`{|}~
+ThIS ShOUlD ALL aPPear LOWER Case
