@@ -1,6 +1,6 @@
 # inverted_index_challenge
 
- TASK: Build an inverted index that gives, for every word, the list of documents it appears in.
+ Task: Build an inverted index that gives, for every word, the list of documents it appears in.
  
  This has been developed within Databricks using Apache Spark 2.4.5 and RDD, 14BG memory (python and pyspark)
  
