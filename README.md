@@ -7,5 +7,3 @@
 
 An example .csv output developed from this code can be found in 'Data/output'.
 
-![alt text](https://github.com/sue-wallace/inverted_index_challenge/upload/main/image/my_inverted_inx.jpg?raw=true)
-
